@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @sarva-20
+/src/backend/database.py      @sarva-20
+/src/backend/routers/auth.py  @sarva-20
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @sarva-20
